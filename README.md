@@ -1,3 +1,6 @@
+Clique no link para visualizar o projeto:
+https://entrega-nu-kenzie-junio-chaves.vercel.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
